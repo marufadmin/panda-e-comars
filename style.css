@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* header area star */
+
+.custom-color {
+    background-color: #dddddd;
+}
+
+
+/* header area end */
+
+
+/* slider part star*/
+
+.slider-bg {
+    background-color: #F4709C;
+    padding: 30px;
+}
+
+.my-content h1 {
+    font-weight: bold;
+    color: #4d4747;
+    font-size: 60px;
+}
+
+
+/* slider part end */
